@@ -1,4 +1,4 @@
-# GeographicalPlots
+# Geographical Plots 
 
 * Plots of altimetry sea level data, animations and gifs using Basemap
 * Plots of sea level data over time 
